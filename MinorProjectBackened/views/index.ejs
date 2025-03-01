@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Student Opportunities</title>
+    <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+    <div class="note">
+        Note:- This data has been fetched from the official website. Please click on the title to visit the official website.
+    </div><br>
+    <h1>Latest Opportunities</h1>
+    <div class="opportunity-container">
+        <% if (opportunities && opportunities.length > 0) { %>
+            <% opportunities.forEach(function(opportunity) { %>
+                <div class="opportunity-card">
+                    <h3><a href="<%= opportunity.link %>" target="_blank"><%= opportunity.title %></a></h3>
+                    <p><%= opportunity.description %></p>
+                </div>
+            <% }); %>
+        <% } else { %>
+            <p>No opportunities available at the moment.</p>
+        <% } %>
+    </div>
+</body>
+</html>
