@@ -30,17 +30,17 @@ Many students rely solely on academics without exploring other talents or opport
 
 ## Aim and Objectives
 
-### Aim:
+### Aim:-
 To make students aware of opportunities available at their current stage and guide them in exploring skills beyond academics.
 
-### Objectives:
+### Objectives:-
 - Provide age-appropriate skill opportunities.
 - Create a resource hub for competitions, scholarships, and earning potential.
 - Foster non-academic growth and development.
 
 ---
 
-## Technologies Used
+## Technologies Used....
 
 ### Front-End:
 - **HTML, CSS, ReactJS**: For building a user-friendly and interactive interface.
