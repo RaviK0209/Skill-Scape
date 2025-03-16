@@ -1,4 +1,4 @@
-# Skill-Scape: Unlocking Potential Beyond Academics
+# Skill-Scape: Exploring Opporunities Beyond Academics
 
 ## Table of Contents
 1. [Introduction](#introduction)
