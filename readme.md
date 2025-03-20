@@ -18,7 +18,7 @@
 
 ## Introduction
 
-**Skill-Scape** is a project designed to break the traditional barriers of academic-focused education and guide students in exploring and developing skills beyond academics. The project categorizes opportunities by age groups (e.g., 14-18 years) and provides actionable guidance on skill development, competitions, scholarships, and earning potential. The goal is to empower students to unlock their full potential by exploring non-academic talents and achieving recognition at state, national, and international levels.
+**Skill-Scape** is a project designed to shift the focus of students from only school academic to outisde opportunities and guide students in exploring and developing opportunities beyond academics. The project categorizes opportunities by age groups (e.g., 14-18 years) and provides actionable guidance on skill development, competitions, scholarships, and earning potential. The goal is to empower students to unlock their full potential by exploring non-academic talents and achieving recognition at state, national, and international levels.
 
 ---
 
