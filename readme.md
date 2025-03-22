@@ -24,7 +24,7 @@
 
 ## Problem Statement
 
-Many students rely solely on academics without exploring other talents or opportunities. There is limited guidance for students to identify their strengths and achieve recognition. Additionally, there is a lack of awareness about competitions, scholarships, and earning paths at a young age. For example, competitions like chess, spelling bees, and robotics are conducted at international levels, but many students are unaware of them due to being confined to schoolwork.
+Many students rely solely on academics without exploring other talents or opportunities. There is limited guidance for students to identify their strengths and achieve recognition. Additionally, there is a lack of awareness about competitions, and earning paths at a young age. For example, competitions like chess, spelling bees, and robotics are conducted at international levels, but many students are unaware of them due to being confined to schoolwork.
 
 ---
 
